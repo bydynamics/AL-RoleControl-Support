@@ -141,6 +141,10 @@ Built-in Application Insights integration for monitoring:
 - **Issues**: [GitHub Issues](https://github.com/bydynamics/AL-RoleControl-Support/issues)
 - **Website**: [www.bydynamics.com](https://www.bydynamics.com)
 
+## License
+
+This is proprietary commercial software. See [EULA](EULA.md) for license terms.
+
 ## About bydynamics
 
 bydynamics is a Microsoft partner specializing in Business Central extensions and solutions. We help businesses optimize their ERP processes through innovative extensions and custom development.
