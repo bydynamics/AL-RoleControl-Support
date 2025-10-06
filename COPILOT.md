@@ -157,7 +157,7 @@ Copilot features can be disabled:
 ### Known Issues
 
 - Very complex prompts with multiple unrelated requirements may produce suboptimal grouping
-- Custom table suggestions require manual table ID entry
+- Custom table suggestions may require manual table ID entry
 - Some industry-specific terminology may not be recognized
 
 ## Troubleshooting
