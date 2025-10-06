@@ -34,7 +34,7 @@ Role Control is a powerful Business Central extension that enables you to create
 - Location filters, customer filters, and custom filter references
 
 ### 🤖 AI-Powered Role Center Generation (Copilot)
-Generate complete Role Centers with AI assistance. [Learn more about Copilot features](docs/COPILOT.md)
+Generate complete Role Centers with AI assistance. [Learn more about Copilot features](COPILOT.md)
 
 ### 🌍 Multilingual Support
 Available in:
@@ -132,13 +132,13 @@ Built-in Application Insights integration for monitoring:
 
 ## Documentation
 
-- [Copilot Features](docs/COPILOT.md)
+- [Copilot Features](COPILOT.md)
 - [Privacy Statement](PRIVACY.md)
 - [End User License Agreement](EULA.md)
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/bydynamics/AL-RoleControl-AppSource/issues)
+- **Issues**: [GitHub Issues](https://github.com/bydynamics/AL-RoleControl-Support/issues)
 - **Email**: support@bydynamics.com
 - **Website**: [www.bydynamics.com](https://www.bydynamics.com)
 
