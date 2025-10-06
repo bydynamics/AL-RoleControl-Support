@@ -128,8 +128,7 @@ We may update this Privacy Statement. Continued use after changes constitutes ac
 
 For privacy questions or concerns:
 
-**bydynamics B.V.**  
-Email: privacy@bydynamics.com  
+**bydynamics B.V.**   
 Website: www.bydynamics.com
 
 ## Regulatory Compliance
