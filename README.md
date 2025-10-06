@@ -139,16 +139,7 @@ Built-in Application Insights integration for monitoring:
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/bydynamics/AL-RoleControl-Support/issues)
-- **Email**: support@bydynamics.com
 - **Website**: [www.bydynamics.com](https://www.bydynamics.com)
-
-## Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## About bydynamics
 
